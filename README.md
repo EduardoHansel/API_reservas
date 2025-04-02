@@ -181,6 +181,8 @@ O FastAPI gera automaticamente uma documentação interativa, acessível em:
     - `PUT /reservas/{id}` – Atualização de reserva.
     
     - `DELETE /reservas/{id}` – Exclusão de reserva.
+    
+    - `GET /reservas/disponibilidade` - Verificação se uma sala está disponível em um horário específico.
 
 - ### Coordenadores
 
