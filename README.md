@@ -46,8 +46,8 @@ para o gerenciamento de reservas de salas acadêmicas. Suas funcionalidades-chav
 
 1. **Clonar o Repositório**
     ```bash
-   git clone https://github.com/EduardoHansel/teste.git
-   cd teste
+   git clone https://github.com/EduardoHansel/API_reservas.git
+   cd API_reservas
    
 2. **Criar e Ativar o Ambiente Virtual (recomendado)**
     ```bash
